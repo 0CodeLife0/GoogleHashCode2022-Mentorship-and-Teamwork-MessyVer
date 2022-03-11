@@ -1,0 +1,44 @@
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects\bin\Debug\netcoreapp2.2\Projects.deps.json
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects\bin\Debug\netcoreapp2.2\Projects.runtimeconfig.json
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects\bin\Debug\netcoreapp2.2\Projects.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects\bin\Debug\netcoreapp2.2\Projects.dll
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects\bin\Debug\netcoreapp2.2\Projects.pdb
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects\obj\Debug\netcoreapp2.2\Projects.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects\obj\Debug\netcoreapp2.2\Projects.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects\obj\Debug\netcoreapp2.2\Projects.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects\obj\Debug\netcoreapp2.2\Projects.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects\obj\Debug\netcoreapp2.2\Projects.dll
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects\obj\Debug\netcoreapp2.2\Projects.pdb
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-do\bin\Debug\netcoreapp2.2\Projects.deps.json
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-do\bin\Debug\netcoreapp2.2\Projects.runtimeconfig.json
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-do\bin\Debug\netcoreapp2.2\Projects.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-do\bin\Debug\netcoreapp2.2\Projects.dll
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-do\bin\Debug\netcoreapp2.2\Projects.pdb
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-do\obj\Debug\netcoreapp2.2\Projects.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-do\obj\Debug\netcoreapp2.2\Projects.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-do\obj\Debug\netcoreapp2.2\Projects.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-do\obj\Debug\netcoreapp2.2\Projects.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-do\obj\Debug\netcoreapp2.2\Projects.dll
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-do\obj\Debug\netcoreapp2.2\Projects.pdb
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-do\bin\Debug\netcoreapp2.2\Projects.deps.json
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-do\bin\Debug\netcoreapp2.2\Projects.runtimeconfig.json
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-do\bin\Debug\netcoreapp2.2\Projects.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-do\bin\Debug\netcoreapp2.2\Projects.dll
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-do\bin\Debug\netcoreapp2.2\Projects.pdb
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-do\obj\Debug\netcoreapp2.2\Projects.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-do\obj\Debug\netcoreapp2.2\Projects.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-do\obj\Debug\netcoreapp2.2\Projects.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-do\obj\Debug\netcoreapp2.2\Projects.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-do\obj\Debug\netcoreapp2.2\Projects.dll
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-do\obj\Debug\netcoreapp2.2\Projects.pdb
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-re-do\bin\Debug\netcoreapp2.2\Projects.deps.json
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-re-do\bin\Debug\netcoreapp2.2\Projects.runtimeconfig.json
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-re-do\bin\Debug\netcoreapp2.2\Projects.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-re-do\bin\Debug\netcoreapp2.2\Projects.dll
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-re-do\bin\Debug\netcoreapp2.2\Projects.pdb
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-re-do\obj\Debug\netcoreapp2.2\Projects.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-re-do\obj\Debug\netcoreapp2.2\Projects.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-re-do\obj\Debug\netcoreapp2.2\Projects.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-re-do\obj\Debug\netcoreapp2.2\Projects.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-re-do\obj\Debug\netcoreapp2.2\Projects.dll
+C:\Users\Lenovo\Desktop\AllOnePizza\Projects - re-re-re-do\obj\Debug\netcoreapp2.2\Projects.pdb
